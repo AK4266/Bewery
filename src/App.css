@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  
+  text-align: center;
+  border: #282c34 solid 1px;
+}
